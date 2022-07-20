@@ -1,0 +1,23 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path
+		d="M0 6C0 2.68629 2.68629 0 6 0H50C53.3137 0 56 2.68629 56 6V50C56 53.3137 53.3137 56 50 56H6C2.68629 56 0 53.3137 0 50V6Z"
+		fill="#566AEC"
+		fill-opacity="0.1"
+	/>
+<path
+		fill-rule="evenodd"
+		clip-rule="evenodd"
+		d="M33.7242 33.431C33.7242 36.4205 31.6872 38.5325 28.4292 38.5325H19.1037C15.8487 38.5325 13.8252 36.4205 13.8252 33.431V22.991C13.8252 20.003 15.8487 17.876 19.1202 17.876H28.4292C31.6872 17.876 33.7242 20.003 33.7242 22.991V33.431Z"
+		stroke="#566AEC"
+		stroke-width="2"
+		stroke-linecap="round"
+		stroke-linejoin="round"
+	/>
+<path
+		d="M33.7246 26.9154L39.8701 21.8844C40.8451 21.0819 42.3256 21.7794 42.3256 23.0499V33.3579C42.3256 34.6299 40.8451 35.3244 39.8701 34.5234L33.7246 29.4924"
+		stroke="#566AEC"
+		stroke-width="2"
+		stroke-linecap="round"
+		stroke-linejoin="round"
+	/>
+</svg>

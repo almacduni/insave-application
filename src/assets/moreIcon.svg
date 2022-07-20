@@ -1,0 +1,27 @@
+<svg
+	width="24"
+	height="24"
+	viewBox="0 0 24 24"
+	fill="none"
+	stroke="white"
+	xmlns="http://www.w3.org/2000/svg"
+>
+<path
+		d="M12 4V4C7.58172 4 4 7.58172 4 12V12C4 16.4183 7.58172 20 12 20V20C16.4183 20 20 16.4183 20 12V12"
+		stroke-width="2"
+		stroke-linecap="round"
+		stroke-linejoin="round"
+	/>
+<mask id="path-2-inside-1" fill="white">
+<path
+			d="M14 2.55172C14 2.24702 14.247 2 14.5517 2C18.6653 2 22 5.33471 22 9.44828C22 9.75299 21.753 10 21.4483 10H15C14.4477 10 14 9.55228 14 9V2.55172Z"
+		/>
+</mask>
+<path
+		d="M14 2.55172C14 2.24702 14.247 2 14.5517 2C18.6653 2 22 5.33471 22 9.44828C22 9.75299 21.753 10 21.4483 10H15C14.4477 10 14 9.55228 14 9V2.55172Z"
+		stroke-width="4"
+		stroke-linecap="round"
+		stroke-linejoin="round"
+		mask="url(#path-2-inside-1)"
+	/>
+</svg>

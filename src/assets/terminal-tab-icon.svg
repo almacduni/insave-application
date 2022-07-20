@@ -1,0 +1,23 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="white" />
+<path
+		d="M22 14V6C22 3.79086 20.2091 2 18 2H6C3.79086 2 2 3.79086 2 6V15C2 17.2091 3.79086 19 6 19H7"
+		stroke="#9A9BA5"
+		stroke-width="1.75"
+		stroke-linecap="round"
+	/>
+<path
+		d="M11 19H21M21 19L18 22M21 19L18 16"
+		stroke="#9A9BA5"
+		stroke-width="1.75"
+		stroke-linecap="round"
+		stroke-linejoin="round"
+	/>
+<path
+		d="M18 12H8M8 12L11 15M8 12L11 9"
+		stroke="#9A9BA5"
+		stroke-width="1.75"
+		stroke-linecap="round"
+		stroke-linejoin="round"
+	/>
+</svg>
